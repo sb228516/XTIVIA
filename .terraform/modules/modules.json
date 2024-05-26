@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"vpc","Source":"https://github.com/sb228516/XTIVIA.git","Dir":".terraform/nodules"}]}
+{"Modules":[{"Key":"vpc","Source":"https://github.com/sb228516/XTIVIA.git","Dir":".terraform/modules/vpc"}]}

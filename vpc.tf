@@ -4,7 +4,7 @@ provider "aws" {
 }
 
 module "vpc" {
- source                          = "github.com/sb228516/XTIVIA.git"
+ source                          = "github.com/sb228516/XTIVIA/blob/master/VPC/vpc.tf"
     region                          = var.region
     project_name                    = var.project_name
     vpc_cidr                        = var.vpc_cidr
